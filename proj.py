@@ -3,13 +3,11 @@
 # Developed in Python 2.7.5
 
 '''
-ISJ Coursework Project - Downloading and Comparing Movie Subtitles Automatically
+ISJ Coursework Project
 
-@author: Jakub Vitasek
-@date: 5/17/2014
-@contact: xvitas02(at)stud.fit.vutbr.cz
-@version: 1.0
-@license: GPL
+@author: 	Jakub Vitasek <me@jvitasek.cz>
+@date: 		5/17/2014
+@brief:		Downloading and Comparing Movie Subtitles Automatically
 '''
 
 from urllib2 import Request, URLError, urlopen
